@@ -1,7 +1,9 @@
 # Video Converter
 This is a small script tool to convert from/to any video format keeping the same directory structure.
 
-It can be useful for who needs more control while converting videos. 
+It can be useful for who needs more control while converting videos.
+
+For who is looking for an open source GUI video convert software we recommend take a look on [HandBrake](https://handbrake.fr/).
 
 # How it works
 This tool relies on [ffmpeg tool](https://www.ffmpeg.org/) for the hard work of converting the videos between almost any available format.
