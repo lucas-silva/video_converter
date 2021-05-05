@@ -18,7 +18,7 @@ To run this script you'll need to install:
 # Running
 To execute  the script you'll type in your terminal:
 ```
-python convert.py
+python src/convert.py
 ```
 
 The program will prompt you to provide arguments.
